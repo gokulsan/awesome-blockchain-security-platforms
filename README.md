@@ -5,7 +5,7 @@ Blockchain Security Tools and Techniques - Compilation of Articles and Approache
 
 https://www.apriorit.com/dev-blog/578-blockchain-attack-vectors
 
-# blockchian security - proposals for improvements and best practices
+# Ethereum Security - EIPs and Best Practices
 
 https://consensys.github.io/smart-contract-best-practices/security_eips/
 
