@@ -43,15 +43,21 @@ https://cryptnus.com/2018/03/use-our-suite-of-ethereum-security-tools/
 
 https://securityonline.info/manticore-dynamic-binary-analysis-tool/
 
+# How to Guide for Blockchian Implementation Security
+
 https://www.pentestpartners.com/security-blog/blockchain-implementation-security-a-hardening-how-to/
+
+# Blockchain Security - A Quality Assurance Approach
 
 https://www.thinksys.com/qa-testing/testing-blockchain/
 
+# Blockchain Security - A Penetration Testing Approach
+
 https://icocrowd.com/blockchain-security-penetration-testing/
 
-https://www.cryptoninjas.net/2018/12/10/ark-blockchain-to-get-vulnerability-tests-from-security-platform-bugcrowd/
+# Blockchian Security - BugCrowd approach to Vulnerability Assessment
 
-https://buglab.io/
+https://www.cryptoninjas.net/2018/12/10/ark-blockchain-to-get-vulnerability-tests-from-security-platform-bugcrowd/
 
 https://stratuscyber.com/blockchain-security
 
@@ -74,9 +80,15 @@ https://blog.malwarebytes.com/security-world/business-security-world/2018/12/usi
 https://wmeyer.github.io/smart-contract-validation/
 
 https://github.com/hyeonleee/Smart_Contract_Security_Analysis/tree/master/Papers_to_Read
+
 https://consensys.github.io/smart-contract-best-practices/security_tools/
+
 https://www.investopedia.com/news/ico-security-playbook-5-steps-ensure-success/
+
 https://medium.com/haloblock/introduction-to-manticore-a-symbolic-analysis-tool-for-smart-contract-9de08dae4e1e
+
 https://pentesttools.net/manticore-symbolic-execution-tool-for-analysis-of-binaries-and-smart-contracts/
-https://whitepaper.metabase.network/smart-contracts/#!
+
+https://whitepaper.metabase.network/smart-contracts/
+
 https://smartcontractsecurity.github.io/SWC-registry/
