@@ -59,11 +59,15 @@ https://icocrowd.com/blockchain-security-penetration-testing/
 
 https://www.cryptoninjas.net/2018/12/10/ark-blockchain-to-get-vulnerability-tests-from-security-platform-bugcrowd/
 
-https://stratuscyber.com/blockchain-security
+# Blockchian Security at VeChain - A Collaboration Story
 
 https://medium.com/@vechainofficial/vechains-collaboration-with-slowmist-and-other-private-firms-to-secure-the-vechainthor-blockchain-8ed186c00f17
 
+# Blockchain Penetration Testing for Digital Enterprises - A BugLab Story
+
 https://www.newsbtc.com/2018/06/19/buglab-brings-blockchain-based-security-penetration-testing-for-digital-enterprise/
+
+# Blockchain Vulnerabilities a Critical Review
 
 https://resources.infosecinstitute.com/blockchain-vulnerabilities-imperfections-of-the-perfect-system/
 
