@@ -111,6 +111,12 @@ https://medium.com/haloblock/introduction-to-manticore-a-symbolic-analysis-tool-
 
 https://pentesttools.net/manticore-symbolic-execution-tool-for-analysis-of-binaries-and-smart-contracts/
 
+https://github.com/trailofbits/manticore
+
 https://whitepaper.metabase.network/smart-contracts/
 
 https://smartcontractsecurity.github.io/SWC-registry/
+
+# Mythril Security Analysis tool for EVM bytecode
+
+https://github.com/ConsenSys/mythril
