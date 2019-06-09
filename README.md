@@ -63,7 +63,7 @@ https://www.cryptoninjas.net/2018/12/10/ark-blockchain-to-get-vulnerability-test
 
 https://medium.com/@vechainofficial/vechains-collaboration-with-slowmist-and-other-private-firms-to-secure-the-vechainthor-blockchain-8ed186c00f17
 
-# Blockchain Penetration Testing for Digital Enterprises - A BugLab Story
+# Blockchain Penetration Testing - A BugLab Story
 
 https://www.newsbtc.com/2018/06/19/buglab-brings-blockchain-based-security-penetration-testing-for-digital-enterprise/
 
@@ -71,23 +71,41 @@ https://www.newsbtc.com/2018/06/19/buglab-brings-blockchain-based-security-penet
 
 https://resources.infosecinstitute.com/blockchain-vulnerabilities-imperfections-of-the-perfect-system/
 
+# Blockchain Security Audit Services
+
 https://bitcoinexchangeguide.com/hosho/
+
+# Smart Contract Audit Approaches
 
 https://www.cryptoninjas.net/2018/07/31/evident-proof-passes-smart-contract-audit-with-a-100-score/
 
+# Blockchain in context of Malware Attacks
+
 https://medium.com/@cetassystem/blockchain-ware-next-stage-of-malware-evolution-1533fb8751aa
 
+# Blockchain, IOT and Malwares 
+
 https://iot.stackexchange.com/questions/764/could-a-blockchain-really-prevent-malware-in-the-internet-of-things
+
+# Blockchain for Disaster Recovery
 
 https://blog.malwarebytes.com/security-world/business-security-world/2018/12/using-the-blockchain-to-create-secure-backups/
 
 https://wmeyer.github.io/smart-contract-validation/
 
+# Smart Contract Security Analysis
+
 https://github.com/hyeonleee/Smart_Contract_Security_Analysis/tree/master/Papers_to_Read
+
+# Smart Contract Security Tools
 
 https://consensys.github.io/smart-contract-best-practices/security_tools/
 
+# ICO Security Framework
+
 https://www.investopedia.com/news/ico-security-playbook-5-steps-ensure-success/
+
+# Manticore for Smart Contract Symbolic Analysis
 
 https://medium.com/haloblock/introduction-to-manticore-a-symbolic-analysis-tool-for-smart-contract-9de08dae4e1e
 
